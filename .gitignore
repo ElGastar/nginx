@@ -1,0 +1,6 @@
+.gitconfig
+.inputrc
+.profile
+.ssh/*
+.viminfo
+.vimrc
