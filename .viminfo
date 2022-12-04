@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1670164280,,"wq"
+|2,0,1670165179,,"wq"
 :q
-|2,0,1670163427,,"q"
+|2,0,1670164669,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,230 +27,272 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.gitignore
-|4,48,1,0,1670164280,"~/.gitignore"
-'1  6  5  ~/.gitignore
-|4,49,6,5,1670164230,"~/.gitignore"
-'2  6  5  ~/.gitignore
-|4,50,6,5,1670164230,"~/.gitignore"
-'3  6  13  ~/nginx/nginx.conf
-|4,51,6,13,1670163881,"~/nginx/nginx.conf"
-'4  7  42  ~/docker-compose.yml
-|4,52,7,42,1670163708,"~/docker-compose.yml"
-'5  7  56  ~/docker-compose.yml
-|4,53,7,56,1670163652,"~/docker-compose.yml"
-'6  7  32  ~/docker-compose.yml
-|4,54,7,32,1670163491,"~/docker-compose.yml"
-'7  7  32  ~/docker-compose.yml
-|4,55,7,32,1670163491,"~/docker-compose.yml"
-'8  1  0  ~/index.html
-|4,56,1,0,1670163427,"~/index.html"
-'9  1  59  ~/nginx/nginx.conf
-|4,57,1,59,1670163410,"~/nginx/nginx.conf"
+'0  6  13  ~/public/index.html
+|4,48,6,13,1670165179,"~/public/index.html"
+'1  1  0  ~/nginx/nginx.conf
+|4,49,1,0,1670165114,"~/nginx/nginx.conf"
+'2  3  18  ~/nginx/nginx.conf
+|4,50,3,18,1670164943,"~/nginx/nginx.conf"
+'3  3  18  ~/nginx/nginx.conf
+|4,51,3,18,1670164943,"~/nginx/nginx.conf"
+'4  1  1  ~/public/style.css
+|4,52,1,1,1670164805,"~/public/style.css"
+'5  9  1  ~/public/index.html
+|4,53,9,1,1670164793,"~/public/index.html"
+'6  9  1  ~/public/index.html
+|4,54,9,1,1670164793,"~/public/index.html"
+'7  9  21  ~/public/index.html
+|4,55,9,21,1670164697,"~/public/index.html"
+'8  9  21  ~/public/index.html
+|4,56,9,21,1670164697,"~/public/index.html"
+'9  1  0  ~/index.html
+|4,57,1,0,1670164669,"~/index.html"
 
 # Jumplist (newest first):
--'  1  0  ~/.gitignore
-|4,39,1,0,1670164280,"~/.gitignore"
--'  6  5  ~/.gitignore
-|4,39,6,5,1670164230,"~/.gitignore"
--'  6  5  ~/.gitignore
-|4,39,6,5,1670164230,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1670164178,"~/.gitignore"
--'  6  13  ~/nginx/nginx.conf
-|4,39,6,13,1670163881,"~/nginx/nginx.conf"
--'  6  13  ~/nginx/nginx.conf
-|4,39,6,13,1670163881,"~/nginx/nginx.conf"
--'  6  13  ~/nginx/nginx.conf
-|4,39,6,13,1670163881,"~/nginx/nginx.conf"
--'  6  13  ~/nginx/nginx.conf
-|4,39,6,13,1670163881,"~/nginx/nginx.conf"
+-'  6  13  ~/public/index.html
+|4,39,6,13,1670165179,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670165135,"~/public/index.html"
 -'  1  0  ~/nginx/nginx.conf
-|4,39,1,0,1670163718,"~/nginx/nginx.conf"
+|4,39,1,0,1670165114,"~/nginx/nginx.conf"
 -'  1  0  ~/nginx/nginx.conf
-|4,39,1,0,1670163718,"~/nginx/nginx.conf"
+|4,39,1,0,1670165114,"~/nginx/nginx.conf"
+-'  3  18  ~/nginx/nginx.conf
+|4,39,3,18,1670164943,"~/nginx/nginx.conf"
+-'  3  18  ~/nginx/nginx.conf
+|4,39,3,18,1670164943,"~/nginx/nginx.conf"
+-'  3  18  ~/nginx/nginx.conf
+|4,39,3,18,1670164943,"~/nginx/nginx.conf"
+-'  3  18  ~/nginx/nginx.conf
+|4,39,3,18,1670164943,"~/nginx/nginx.conf"
 -'  1  0  ~/nginx/nginx.conf
-|4,39,1,0,1670163718,"~/nginx/nginx.conf"
+|4,39,1,0,1670164890,"~/nginx/nginx.conf"
 -'  1  0  ~/nginx/nginx.conf
-|4,39,1,0,1670163718,"~/nginx/nginx.conf"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  7  42  ~/docker-compose.yml
-|4,39,7,42,1670163708,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163686,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  7  56  ~/docker-compose.yml
-|4,39,7,56,1670163652,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163608,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  7  32  ~/docker-compose.yml
-|4,39,7,32,1670163491,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1670163431,"~/docker-compose.yml"
+|4,39,1,0,1670164890,"~/nginx/nginx.conf"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  1  1  ~/public/style.css
+|4,39,1,1,1670164805,"~/public/style.css"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  9  1  ~/public/index.html
+|4,39,9,1,1670164793,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164747,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  9  21  ~/public/index.html
+|4,39,9,21,1670164697,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1670164677,"~/public/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1670163427,"~/index.html"
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1670164669,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/public/index.html
+	*	1670165177	0
+	"	6	13
+	^	6	14
+	.	6	13
+	+	1	5
+	+	11	6
+	+	9	21
+	+	6	57
+	+	9	1
+	+	7	0
+	+	6	13
+
+> ~/nginx/nginx.conf
+	*	1670165111	0
+	"	1	0
+	^	3	19
+	.	3	19
+	+	1	7
+	+	1	21
+	+	1	33
+	+	1	59
+	+	2	5
+	+	4	7
+	+	5	10
+	+	6	24
+	+	7	13
+	+	3	19
+
+> ~/public/style.css
+	*	1670164805	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	6
+	+	2	10
+	+	1	1
+
+> ~/index.html
+	*	1670164669	0
+	"	1	0
 
 > ~/.gitignore
 	*	1670164278	0
@@ -258,21 +300,6 @@
 	^	6	6
 	.	6	5
 	+	6	5
-
-> ~/nginx/nginx.conf
-	*	1670163877	0
-	"	6	13
-	^	6	14
-	.	6	13
-	+	1	7
-	+	1	21
-	+	1	33
-	+	1	59
-	+	2	5
-	+	3	7
-	+	4	10
-	+	5	24
-	+	6	13
 
 > ~/docker-compose.yml
 	*	1670163707	0
@@ -282,14 +309,3 @@
 	+	9	14
 	+	4	23
 	+	7	42
-
-> ~/index.html
-	*	1670163427	0
-	"	1	0
-
-> ~/public/index.html
-	*	1670163340	0
-	"	2	0
-	^	2	0
-	.	1	5
-	+	1	5
